@@ -1,0 +1,7 @@
+3 2
+1 2 3
+2 3 7
+
+People Edges
+Person1 Person2 Weight
+Person2 Person3 Weight
